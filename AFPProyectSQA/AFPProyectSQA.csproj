@@ -84,6 +84,9 @@
     <EmbeddedResource Include="Views\MainMenuView.resx">
       <DependentUpon>MainMenuView.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\RequestPensionView.resx">
+      <DependentUpon>RequestPensionView.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
